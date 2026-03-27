@@ -28,6 +28,12 @@ The implementations include fundamental algorithms and will progressively expand
 
 This section focuses on algorithms that identify patterns and structures in unlabeled data. It includes clustering and will later expand to cover dimensionality reduction and other exploratory techniques.
 
+## Other Techniques
+
+This section focuses on learning basic libraries and technique before starting working ML algorithms, it helps to cover core basic concept and building strong basic, if you work with algorithms you got better experience and learn fast.
+
+
+
 ## Learning Approach
 
 The repository follows a consistent approach:
