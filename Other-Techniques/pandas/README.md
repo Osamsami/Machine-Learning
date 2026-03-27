@@ -1,4 +1,4 @@
-# 🏏 IPL Matches — Pandas Data Analysis
+#  IPL Matches — Pandas Data Analysis
 
 ## Project Overview
 
@@ -8,7 +8,7 @@ The notebook (`pandas_data_analysis_annotated.ipynb`) walks through the dataset 
 
 ---
 
-## 📂 Dataset: IPL Matches (`matches.csv`)
+##  Dataset: IPL Matches (`matches.csv`)
 
 The **Indian Premier League (IPL)** is one of the most popular Twenty20 (T20) cricket tournaments in the world, featuring franchise teams from major Indian cities. The dataset covers **636 matches** across **10 seasons** (2008–2017), with the following **18 columns**:
 
@@ -34,7 +34,7 @@ The **Indian Premier League (IPL)** is one of the most popular Twenty20 (T20) cr
 
 ---
 
-## 📚 Pandas Concepts Demonstrated
+##  Pandas Concepts Demonstrated
 
 This notebook covers the following core Pandas skills, progressing from the basics to more advanced operations:
 
@@ -92,7 +92,7 @@ This notebook covers the following core Pandas skills, progressing from the basi
 
 ---
 
-## 🔑 Key Learnings
+##  Key Learnings
 
 By working through this notebook, you will gain:
 
@@ -110,7 +110,7 @@ By working through this notebook, you will gain:
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone this repository or download the files.
 2. Ensure you have Python and Pandas installed:
@@ -126,18 +126,18 @@ By working through this notebook, you will gain:
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
-```
+Machine-Learning/Other-Techniques/
 Pandas/
 ├── matches.csv                          # IPL dataset
-├── pandas_data_analysis_annotated.ipynb # Annotated analysis notebook
+├── pandas_data_analysiss.ipynb # data_analysis notebook
 └── README.md                            # This file
 ```
 
 ---
 
-## 🛠️ Requirements
+##  Requirements
 
 - Python 3.7+
 - pandas >= 1.0
